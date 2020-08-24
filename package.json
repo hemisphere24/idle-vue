@@ -1,9 +1,9 @@
 {
-  "name": "@hemisphere24/idle-vue",
-  "version": "2.0.5",
-  "description": "Vue component wrapper for idle-js",
-  "repository": "https://github.com/soixantecircuits/idle-vue.git",
-  "author": "Olivier FAURE <olivier.faure@epitech.eu>",
+  "name": "idle-vue-3",
+  "version": "1.0.0",
+  "description": "Fork of idle-vue with runtime timeout reset",
+  "repository": "https://github.com/hemisphere24/idle-vue.git",
+  "author": "Charles BURFORD <charles.burford+github@gmail.com>",
   "license": "MIT",
   "main": "dist/build.js",
   "scripts": {
