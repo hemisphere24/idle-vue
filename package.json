@@ -1,6 +1,6 @@
 {
   "name": "idle-vue-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of idle-vue with runtime timeout reset",
   "repository": "https://github.com/hemisphere24/idle-vue.git",
   "author": "Charles BURFORD <charles.burford+github@gmail.com>",
