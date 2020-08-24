@@ -11,7 +11,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "idle-js": "^1.2.0",
+    "idle-js": "^1.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
